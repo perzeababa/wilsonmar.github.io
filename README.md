@@ -8,7 +8,7 @@ I need the help.
 This repository is based on a theme by Michael Rose,
 [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes).
 [His demo of the theme](http://mmistakes.github.io/minimal-mistakes/)
-includes a [minimal setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/).
+includes a [minimal setup Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 The Minimal Mistakes theme provides:
 
